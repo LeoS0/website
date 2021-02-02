@@ -1,0 +1,91 @@
+[
+  {
+    "model": "xc40",
+    "exterior": {
+      "img_build_one": "https://cas.volvocars.com/image/dynamic/MY21_2017/536/exterior-v1/11/",
+      "img_build_two": "_/_/TC01/TP04/_/_/GR01/T101/TJ03/TM03/JG02/_/_/JB0A/T20E/LF01/VP02/_/_/_/_/_/_/default.jpg",
+      "img_list": "https://assets.volvocars.com/se/~/media/sweden/pages/bdv-landing-517x192/xc40-my21517x192.png?w=200",
+      "colors": {
+        "solid": [
+          { "name": "Black Stone", "number": "01900" },
+          { "name": "Ice White", "number": "61400" }
+        ],
+        "metallic": [
+          { "name": "Onyx Black", "number": "71700" },
+          { "name": "Thunder Grey", "number": "72800" },
+          { "name": "Glacier Silver", "number": "72900" }
+        ]
+      },
+      "wheels": [
+        { "name": "17″ 5-Spoke Silver", "number": "R136", "image": "https://cas.volvocars.com/image/v2/icons/MY21_2017/536/102/R136.png" },
+        { "name": "18″ 5-Spoke Silver", "number": "R137", "image": "https://cas.volvocars.com/image/v2/icons/MY21_2017/536/102/R137.png" }
+      ]
+    }
+  },
+  {
+    "model": "xc60",
+    "exterior": {
+      "img_build_one": "https://cas.volvocars.com/image/dynamic/MY21_2017/246/exterior-v1/12/",
+      "img_build_two": "TP02/_/_/_/SR03/_/T101/_/_/JB0A/T21A/_/FH02/_/default.jpg",
+      "img_list": "https://assets.volvocars.com/se/~/media/sweden/pages/bdv-landing-517x192/xc60-my21_517x192.png?w=200",
+      "colors": {
+        "solid": [{ "name": "Ice White", "number": "61400" }],
+        "metallic": [
+          { "name": "Osmiun Grey", "number": "71400" },
+          { "name": "Onyx Black", "number": "71700" },
+          { "name": "Luminous Sand", "number": "71900" },
+          { "name": "Maple Brown", "number": "72200" },
+          { "name": "Denim Blue", "number": "72300" },
+          { "name": "Pine Grey", "number": "72400" },
+          { "name": "Fusion Red", "number": "72500" }
+        ]
+      },
+      "wheels": [
+        { "name": "18″ 5-Y Spoke Silver", "number": "R11B", "image": "https://cas.volvocars.com/image/v2/icons/MY21_2017/246/102/R11B.png" },
+        {
+          "name": "18″ 5-Double Spoke...",
+          "number": "R151",
+          "image": "https://cas.volvocars.com/image/v2/icons/MY21_2017/246/102/R151.png"
+        }
+      ]
+    }
+  },
+  {
+    "model": "xc90",
+    "exterior": {
+      "img_build_one": "https://cas.volvocars.com/image/dynamic/MY21_2017/256/exterior-v1/23/",
+      "img_build_two": "DD01/JT02/_/TC03/TP02/_/_/SR02/TM02/GR03/T102/TJ04/NP03/TR07/JG02/_/_/JB0A/T21B/LF01/_/VP03/FH02/_/default.jpg",
+      "img_list": "https://assets.volvocars.com/se/~/media/sweden/pages/bdv-landing-517x192/xc90-my21.png?w=200",
+      "colors": {
+        "solid": [{ "name": "Ice White", "number": "61400" }],
+        "metallic": [
+          { "name": "Savile Grey", "number": "49200" },
+          { "name": "Bright Silver", "number": "71100" },
+          { "name": "Pebble Grey", "number": "72700" },
+          { "name": "Maple Brown", "number": "72200" },
+          { "name": "Denim Blue", "number": "72300" },
+          { "name": "Pine Grey", "number": "72400" },
+          { "name": "Birch Light", "number": "72600" },
+          { "name": "Thunder Grey", "number": "72800" }
+        ]
+      },
+      "wheels": [
+        {
+          "name": "20″ 10-Spoke Black...",
+          "number": "R144",
+          "image": "https://cas.volvocars.com/image/v2/icons/MY21_2017/256/102/R144.png"
+        },
+        {
+          "name": "20″ 5-Multi Spoke Matt...",
+          "number": "R169",
+          "image": "https://cas.volvocars.com/image/v2/icons/MY21_2017/256/102/R169.png"
+        },
+        {
+          "name": "21″ 5-V Spoke Black...",
+          "number": "R121",
+          "image": "https://cas.volvocars.com/image/v2/icons/MY21_2017/256/102/R121.png"
+        }
+      ]
+    }
+  }
+]

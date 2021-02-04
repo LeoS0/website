@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/website/precache-manifest.3bddd3338d3d3b9eb03075cc7570fded.js"
+  "/website/precache-manifest.575be694a539c96fcacb4412e96f7e9c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "custom-car"});
